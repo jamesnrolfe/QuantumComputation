@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "baseFontSizeAction": true,
+  "accentColor": "#586cbb",
+  "interfaceFontFamily": "",
+  "textFontFamily": "CMU Sans Serif,Open Sans",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [],
+  "translucency": false,
+  "nativeMenus": true,
+  "showRibbon": false
+}

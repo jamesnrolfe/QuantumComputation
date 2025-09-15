@@ -1,0 +1,18 @@
+{
+  "livePreview": true,
+  "focusNewTab": false,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": false,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "visible",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

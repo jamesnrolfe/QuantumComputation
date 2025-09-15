@@ -1,0 +1,40 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "example": [
+        {
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "summary": [
+        {
+          "changes": {
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "help": [
+        {
+          "changes": {
+            "color": "166, 189, 197"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

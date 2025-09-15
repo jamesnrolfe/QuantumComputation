@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Fira Math";
+  src: url("fonts/FiraMath-Regular.otf"); /* Put the font file in the vault root or adjust path */
+}
+
+@font-face {
+  font-family: "Asana Math";
+  src: url("fonts/Asana-Math.otf"); /* Put the font file in the vault root or adjust path */
+}
+
+
+mjx-math .TEX-I {
+  font-family: "Asana Math", serif !important;
+}
